@@ -1,3 +1,3 @@
 # MI_MAQUETA_BASICA
 MAQUETA BASICA CON HTML Y CSS
-##Mi Primer Proyecto Web con HTML Y CSS
+##Mi Primer Proyecto Web con HTML Y CSS.
